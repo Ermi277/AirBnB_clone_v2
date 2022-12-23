@@ -48,6 +48,7 @@ This repository contains the initial stage of a student project to build a clone
 
     * quit - Exits the program (EOF will as well)
 
+B
 
 ##### Alternative Syntax
 Users are able to issue a number of console command using an alternative syntax:
@@ -144,4 +145,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 # To be updated
 
-### ALX - AirBnB clone App, authored by - Muhammad Bello and Nicholas Ifeajika
+### ALX - AirBnB clone App, authored by - Ermiyas Argaw
